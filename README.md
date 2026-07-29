@@ -37,6 +37,7 @@ Implémentation en C du jeu Hasami Shogi, un jeu de stratégie traditionnel japo
 ## 🕹️ Comment Jouer
 
 Entrez les coordonnées de départ et d'arrivée séparées par une virgule.
+
 Format : LettreChiffre,LettreChiffre
 
 Exemple de coup:
