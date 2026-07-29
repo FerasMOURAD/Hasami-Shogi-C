@@ -1,4 +1,4 @@
-# ♟️ Hasami Shogi (Version C Simplifiée)
+# ♟️ Hasami Shogi
 
 Implémentation en C du jeu Hasami Shogi, un jeu de stratégie traditionnel japonais qui se joue sur un plateau de $9 \times 9$.
 
