@@ -1,3 +1,5 @@
+#ifndef TEST_MODE
+
 /*************************************/
 /* Hasami Shogi - Version simplifiée */
 /*************************************/
@@ -518,6 +520,8 @@ int main(){
         }
     }
     printf("Merci d'avoir joué avec nous ^_^\n"); /* ceci (^_^) n'est qu'un emoji souriant*/
+    
+    return 0;
 }
 
 
@@ -525,3 +529,4 @@ int main(){
 
 
 
+#endif
