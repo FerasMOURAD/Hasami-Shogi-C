@@ -29,9 +29,9 @@ Implémentation en C du jeu Hasami Shogi, un jeu de stratégie traditionnel japo
 
 ## 🚀 Compilation et Exécution
 
-1.  **Compiler le projet** : gcc -o HasamiShogi Hasami_Shogi.c -Wall
+- **Compiler le projet** : gcc -o HasamiShogi Hasami_Shogi.c -Wall
 
-2. **Lancer le jeu** : ./HasamiShogi
+- **Lancer le jeu** : ./HasamiShogi
 
 
 ## 🕹️ Comment Jouer
